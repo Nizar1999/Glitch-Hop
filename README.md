@@ -1,2 +1,2 @@
-# Gl1tch-H0p
+# Glitch-Hop
 C++ console game, classes/virtual functions/win32api
