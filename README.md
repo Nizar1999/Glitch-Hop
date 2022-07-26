@@ -3,7 +3,7 @@
 </p>
 
 ![Languages](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?style=for-the-badge&color=black)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?style=for-the-badge&color=black&labelColor=black)
 
 # *How long can you go?*
 A simple Window's commandline game where you need to jump over the obstacles.
