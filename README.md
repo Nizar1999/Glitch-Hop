@@ -8,5 +8,5 @@
 # *How long can you go?*
 A simple Window's commandline game where you need to jump over the obstacles.
 
-# Sample Gameplay
+# *Sample Gameplay*
 ![screen-gif](./screenshots/Gameplay.gif)
