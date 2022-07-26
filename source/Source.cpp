@@ -159,7 +159,7 @@ public:
 	void mainMenu() {
 		PlaySound(NULL, 0, 0);
 		PlaySound("splash.wav", NULL, SND_FILENAME | SND_ASYNC);
-		system("clear");
+		system("cls");
 		//writeToView(0, 0, '-', 0);
 		//writeToView(2, 1, '.', 0);
 		SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), COORD{ 0, (SHORT)(rows / 2) });
